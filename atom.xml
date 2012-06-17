@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2012-06-17T09:33:27+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[github_advance]]></title>
+    <link href="http://yoursite.com/blog/2012/06/03/github-advance/"/>
+    <updated>2012-06-03T15:44:00+08:00</updated>
+    <id>http://yoursite.com/blog/2012/06/03/github-advance</id>
+    <content type="html"><![CDATA[<h2>高级wiki</h2>
+
+<h2>更多内容</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[github_basic]]></title>
+    <link href="http://yoursite.com/blog/2012/06/03/github-basic/"/>
+    <updated>2012-06-03T15:42:00+08:00</updated>
+    <id>http://yoursite.com/blog/2012/06/03/github-basic</id>
+    <content type="html"><![CDATA[<h1>开始</h1>
+
+<h1>结束</h1>
+
+<h1>再次更新</h1>
+
+<p><img src="http://yoursite.com/images/tdlte/phy/test_image.png" title="Optional title" alt="test_image" /></p>
+]]></content>
+  </entry>
+  
+</feed>
